@@ -1,5 +1,3 @@
-# MVC-POO
-
 # MCV POOO
  
 # Description
